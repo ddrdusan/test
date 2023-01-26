@@ -1,3 +1,3 @@
 <?php
 
-echo "feature02.php";
+echo "feature02.php" . PHP_EOL;
